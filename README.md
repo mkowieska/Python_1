@@ -18,7 +18,6 @@ Martyna Kowieska
 - Odczyt zadań z pliku i odtworzenie listy.
 
 ## Technologie
-
 |   Technologia   |                   Zastosowanie                  |
 |:---------------:|:-----------------------------------------------:|
 | Python (3.9.13) | Logika aplikacji                                |
@@ -27,7 +26,6 @@ Martyna Kowieska
 | Pillow (PIL)    | Wczytywanie i skalowanie obrazów (logo / ikony) |
 
 ## Instalacja i uruchomienie
-
 1. Sklonuj repozytorium:
    ```bash
    git clone https://github.com/mkowieska/Python_1
@@ -64,28 +62,53 @@ Martyna Kowieska
 
 ## Struktura plików
 Python_1/
+
 │
+
 ├─ Task.py               # Definicje klas Task i TaskManager
+
 ├─ main.py               # Główny punkt wejścia aplikacji
+
 ├─ images/               # Katalog na obrazy (logo, ikony)
+
 │   ├─ img_star.jpg
+
 │   ├─ img_save.jpg
+
 │   └─ img_read.jpg
+
 ├─ screenshots/          # Zdjęcia menadżera zadań
+
 │   ├─ before_deleting.png
+
 │   ├─ deleting.png
+
 │   ├─ filters.png
+
 │   ├─ filters_medium.png
+
 │   ├─ priorities.png
+
 │   ├─ save_to_file.png
+
 │   ├─ sorting.png
+
 │   └─ task_manager.png 
+
 ├─ laboratoria/          # Pliki z ćwiczeń laboratoryjnych
+
 │   ├─ lab1-Python.py 
+
 │   ├─ lab2-Python.py 
+
 │   ├─ lab3-Python.py
+
 │   ├─ lab4-Python.py 
+
 │   ├─ lab5-Python.py 
+
 │   ├─ lab6-Python.py  
+
 │   └─ lab7-Python.py 
+
 └─ README.md
