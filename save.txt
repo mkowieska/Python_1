@@ -1,0 +1,4 @@
+High ***  | 19-07-2025 21:36:52  | Lab1 Python
+Medium ** | 19-07-2025 21:36:52  | Lab2 Systemy
+Low *     | 19-07-2025 21:36:52  | Lab1 Algorytmy1
+Medium ** | 19-07-2025 21:36:52  | Lab2 Algorytmy1
