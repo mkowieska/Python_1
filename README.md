@@ -37,7 +37,7 @@ Martyna Kowieska
 ## Wygląd aplikacji
 1. Panel startowy
 
-![Panel startowy](screenshots/task_manager.png)
+![Panel startowy](screenshots/Task_manager.png)
 
 2. Priorytetyzowanie
 
@@ -80,6 +80,12 @@ Python_1/
 │   ├─ save_to_file.png
 │   ├─ sorting.png
 │   └─ task_manager.png 
-├─ laboratoria/
-│   └─ screenshot.png    # Pliki z ćwiczeń laboratoryjnych
+├─ laboratoria/          # Pliki z ćwiczeń laboratoryjnych
+│   ├─ lab1-Python.py 
+│   ├─ lab2-Python.py 
+│   ├─ lab3-Python.py
+│   ├─ lab4-Python.py 
+│   ├─ lab5-Python.py 
+│   ├─ lab6-Python.py  
+│   └─ lab7-Python.py 
 └─ README.md
