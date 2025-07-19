@@ -75,9 +75,9 @@ sidebar_frame.grid(row=0, column=0, sticky="nsew")
 sidebar_frame.grid_rowconfigure(0, weight=0)
 sidebar_frame.pack(fill=tk.BOTH, expand=True)
 
-logo_img = ctk.CTkImage(light_image=Image.open('img_star.jpg').resize((60, 60)))
-save_img = ctk.CTkImage(light_image=Image.open('img_save.jpg').resize((60, 60)))
-read_img = ctk.CTkImage(light_image=Image.open('img_read.jpg').resize((60, 60)))
+logo_img = ctk.CTkImage(light_image=Image.open('images/img_star.jpg').resize((60, 60)))
+save_img = ctk.CTkImage(light_image=Image.open('images/img_save.jpg').resize((60, 60)))
+read_img = ctk.CTkImage(light_image=Image.open('images/img_read.jpg').resize((60, 60)))
 
 logo_label = ctk.CTkLabel(sidebar_frame, text="  T a s k   M a n a g e r", text_color="#5f246b", fg_color="white", image=logo_img, font=ctk.CTkFont(size=20, weight="bold"), compound="left")
 logo_label.grid(row=0, column=0, padx=20, pady=(10, 10), sticky='nsew', columnspan=50)
