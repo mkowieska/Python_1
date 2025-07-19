@@ -22,7 +22,9 @@ Martyna Kowieska
 ![Panel startowy](screenshots/Task_manager.png)
 
 2. Priorytetyzowanie
-![Priorytetyzowanie](screenshots/priorities.png)
+   ```bash
+    ![Priorytetyzowanie](screenshots/priorities.png)
+   ```
 
 3. Filtrowanie
 ![Filtrowanie](screenshots/filters.png)
