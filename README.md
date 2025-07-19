@@ -60,6 +60,7 @@ Martyna Kowieska
 ![Usuwanie](screenshots/deleting.png)
 
 ## Struktura plików
+```text
 Python_1/
 │
 ├─ Task.py               # Definicje klas Task i TaskManager
@@ -86,7 +87,7 @@ Python_1/
 │   ├─ lab6-Python.py  
 │   └─ lab7-Python.py 
 └─ README.md
-</details>
+
 
 ## Struktura plików
 Python_1/
