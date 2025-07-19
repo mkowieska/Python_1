@@ -5,6 +5,7 @@ Graficzny menedżer zadań napisany w Pythonie z użyciem bibliotek:
 - Pillow (PIL). 
 
 Aplikacja umożliwia dodawanie zadań z priorytetem, filtrowanie, sortowanie, usuwanie, a także zapis i odczyt listy zadań z pliku tekstowego.
+
 **Projekt na zaliczenie z przedmiotu Python** na Zachodniopomorskim Uniwersytecie Technologicznym w roku akademickim 2023/2024.
 
 ## Autor
