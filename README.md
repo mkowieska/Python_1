@@ -11,6 +11,17 @@ Aplikacja umożliwia dodawanie zadań z priorytetem, filtrowanie, sortowanie, us
 ## Autor
 Martyna Kowieska
 
+# Funkcjonalności
+- Prosty interfejs graficzny z przyciskami i rozwijanymi menu.
+- Dodawanie zadania z wybranym priorytetem (Low, Medium, High).
+- Automatyczne nadawanie znacznika czasu (dd-mm-YYYY HH:MM:SS).
+- Wyświetlanie listy zadań w oknie tekstowym (ponumerowane).
+- Filtrowanie zadań po priorytecie (All / Low / Medium / High).
+- Sortowanie zadań według czasu dodania lub priorytetu.
+- Usuwanie zadania po numerze z listy.
+- Zapis wszystkich zadań do pliku tekstowego.
+- Odczyt zadań z pliku i odtworzenie listy.
+
 ## Instalacja i uruchomienie
 
 1. Sklonuj repozytorium:
