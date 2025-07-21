@@ -28,7 +28,7 @@ Martyna Kowieska
 ## Installation and Launch
 1. Clone the repository:
    ```bash
-      git clone https://github.com/mkowieska/Python_1
+      git clone https://github.com/mkowieska/python-labs
       cd repository-name
    ```
 
@@ -61,7 +61,7 @@ Martyna Kowieska
 
 ## File Structure
 ```text
-Python_1/
+python-labs/
 │
 ├─ Task.py                 # Task and TaskManager class definitions
 ├─ main.py                 # Main application entry point
