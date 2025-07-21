@@ -87,7 +87,7 @@ Python_1/
 │   ├─ lab6-Python.py  
 │   └─ lab7-Python.py 
 └─ README.md
-
+```
 
 
 # Task Manager - Graphical Task Manager
